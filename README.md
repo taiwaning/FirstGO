@@ -1,0 +1,3 @@
+# GOTEST
+no
+test go
